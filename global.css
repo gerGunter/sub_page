@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-tt-commons: "TT Commons";
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-mini: 15px;
+  --font-size-xl: 20px;
+  --font-size-5xl: 24px;
+
+  /* Colors */
+  --main-colors-white: #fff;
+  --color-dodgerblue-100: #4395fd;
+  --color-dodgerblue-200: #0a84ff;
+  --color-slategray: #67768c;
+  --color-black: #000;
+
+  /* Gaps */
+  --gap-base: 16px;
+  --gap-5xs: 8px;
+
+  /* Paddings */
+  --padding-5xl: 24px;
+  --padding-base: 16px;
+
+  /* Border radiuses */
+  --br-5xs: 8px;
+}
